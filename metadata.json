@@ -1,0 +1,6 @@
+{
+  "name": "VetMetro RD | Clínica Veterinaria Metropolitana",
+  "description": "Clínica Veterinaria Metropolitana en Santo Domingo, RD. Citas online, urgencias 24/7 en Ensanche Paraíso, Grooming & Spa, CatHotel y VetMetroPark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
